@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rails, ImageMagick, Instagram, and Adobe Illustrator
+title: Rails, ImageMagick, Instagram, and Illustrator
 ---
 
 That's what I'm doing!
