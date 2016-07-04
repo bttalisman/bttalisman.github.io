@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Rails and ImageMagick to Insert Instagram Images into an Adobe Illustrator Doc
+title: Rails, ImageMagick, Instagram, and Adobe Illustrator
 ---
 
 That's what I'm doing!
